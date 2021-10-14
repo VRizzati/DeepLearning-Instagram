@@ -1,7 +1,5 @@
 # INSTAGRAM DEEP TARGETING
-Valentina Rizzati <br/>
-July 8, 2021 <br/>
-Metis: Deep Learning <br/>
+
 
 ---
 
